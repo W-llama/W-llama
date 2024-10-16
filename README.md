@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Summary 📋
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-llama&layout=donut) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W-llama&show_icons=true)
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-llama&layout=donut" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=W-llama&show_icons=true" style="height: 200px;">
 </div>
 
 # Tech Stack 🔭
