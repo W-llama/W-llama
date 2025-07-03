@@ -1,4 +1,4 @@
-# 👋 안녕하세요!
+# 👋 Introduce
 
 ```java
 public class YuSeungbeom extends BackendDeveloper {
@@ -18,7 +18,7 @@ public class YuSeungbeom extends BackendDeveloper {
 }
 ```
 
-# 🏆 프로젝트 하이라이트
+# 🏆 Project
 
 ## 🎮 EZ.GG - 롤 듀오 매칭 플랫폼
 **실시간 듀오 매칭 서비스** [(GitHub)](https://github.com/W-llama/ezgg)
@@ -54,16 +54,10 @@ public class YuSeungbeom extends BackendDeveloper {
 - **90% 목록 조회 최적화** 달성
 - **주요 Service 로직 Test Code** 작성
 
-# 📈 개발 철학
-- 테스트 주도 개발: 단위 테스트를 통한 안정성 확보
-- 코드 품질: 정적 분석과 코드 리뷰를 통한 지속적인 개선
-- 협업: 명확한 커뮤니케이션과 문서화
-- 학습: 새로운 기술과 베스트 프랙티스 적극 수용
-
 # 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-llama&layout=donut" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=W-llama&show_icons=true" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-llama&layout=donut" style="height: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=W-llama&show_icons=true" style="height: 250px;">
 </div>
 
