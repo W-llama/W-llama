@@ -3,7 +3,10 @@
 ```java
 public class YuSeungbeom extends BackendDeveloper {
     
-    String[] skills = {"Spring Boot", "Java", "AWS", "Docker"};
+    String[] backend = {"Spring Boot", "Java"};
+    String[] cloud = {"AWS", "GCP"};
+    String[] database = {"MySQL", "ElasticSearch", "Redis"};
+    String[] devOps = {"Docker", "GitHub Actions"};
     String passion = "테스트 코드 작성 + 안정적인 서비스 구현";
     
     public void introduce() {
@@ -31,7 +34,7 @@ public class YuSeungbeom extends BackendDeveloper {
 - 🔔 **알림 시스템** - 리뷰 및 매칭 알림
 
 ### 📊 Performance
-- **Memeber 관련 Test Code 작성** (Service,Repository)
+- **Memeber 관련 Test Code** 작성 (Service,Repository)
 - **회원가입 비동기처리로 속도** 개선
 
 ## ⚡ Challengers-B.O.D - 데일리 챌린지 서비스  
@@ -49,10 +52,10 @@ public class YuSeungbeom extends BackendDeveloper {
 ### 📊 Performance
 - **40% 응답시간 개선** (Redis 캐싱)
 - **90% 목록 조회 최적화** 달성
-- **주요 Service 로직 Test Code 작성**
+- **주요 Service 로직 Test Code** 작성
 
 # 📈 개발 철학
-- 테스트 주도 개발: 단위 테스트, 통합 테스트를 통한 안정성 확보
+- 테스트 주도 개발: 단위 테스트를 통한 안정성 확보
 - 코드 품질: 정적 분석과 코드 리뷰를 통한 지속적인 개선
 - 협업: 명확한 커뮤니케이션과 문서화
 - 학습: 새로운 기술과 베스트 프랙티스 적극 수용
