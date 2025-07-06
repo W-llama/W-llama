@@ -52,7 +52,7 @@ public class YuSeungbeom extends BackendDeveloper {
 ### 📊 Performance
 - **40% 응답시간 개선** (Redis 캐싱)
 - **90% 목록 조회 최적화** 달성
-- **주요 Service 로직 Test Code** 작성
+- **Memeber 관련 Test Code** 작성 (Service,Repository)
 
 # 📊 GitHub Stats
 
